@@ -19,7 +19,3 @@ npm run dev <br />
 Then open a new terminal <br />
 cd ./frontend <br />
 npm run start <br />
-
-
-
-https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html
